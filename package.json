@@ -1,0 +1,14 @@
+{
+  "name": "cypresstestnel",
+  "version": "1.0.0",
+  "description": "creating test framework using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronel Geronimo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  }
+}
