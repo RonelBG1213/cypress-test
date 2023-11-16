@@ -1,0 +1,8 @@
+{
+  "bNum": [1,2,3,4,5,6,7,8,9],
+  "fNum": 1,
+  "sNum": 2,
+  "oP": ["Add","Subtract","Multiply","Divide","Concatenate"],
+  "ansNum": [3,-1,2,0.5,12]
+}
+
